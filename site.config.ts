@@ -17,7 +17,7 @@ export default siteConfig({
   description: '이택우 이력서',
 
   // social usernames (optional)
-  twitter: 'te_dev',
+  twitter: '',
   github: '0teklee',
   linkedin: '',
 
